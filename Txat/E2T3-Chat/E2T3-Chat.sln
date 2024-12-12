@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E2T3-Chat", "E2T3-Chat\E2T3-Chat.csproj", "{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginForm", "LoginForm\LoginForm.csproj", "{BABE0F71-A281-4EE9-B7AF-90DF290B2192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABE0F71-A281-4EE9-B7AF-90DF290B2192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABE0F71-A281-4EE9-B7AF-90DF290B2192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABE0F71-A281-4EE9-B7AF-90DF290B2192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABE0F71-A281-4EE9-B7AF-90DF290B2192}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BD7EC8B-9D97-451F-8151-5DAECC385CAB}
+	EndGlobalSection
+EndGlobal
