@@ -1,0 +1,14 @@
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\bin\Debug\net8.0\Zerbitzari.exe
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\bin\Debug\net8.0\Zerbitzari.deps.json
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\bin\Debug\net8.0\Zerbitzari.runtimeconfig.json
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\bin\Debug\net8.0\Zerbitzari.dll
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\bin\Debug\net8.0\Zerbitzari.pdb
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\obj\Debug\net8.0\Zerbitzari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\obj\Debug\net8.0\Zerbitzari.AssemblyInfoInputs.cache
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\obj\Debug\net8.0\Zerbitzari.AssemblyInfo.cs
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\obj\Debug\net8.0\Zerbitzari.csproj.CoreCompileInputs.cache
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\obj\Debug\net8.0\Zerbitzari.dll
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\obj\Debug\net8.0\refint\Zerbitzari.dll
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\obj\Debug\net8.0\Zerbitzari.pdb
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\obj\Debug\net8.0\Zerbitzari.genruntimeconfig.cache
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Zerbitzari\obj\Debug\net8.0\ref\Zerbitzari.dll
