@@ -1,0 +1,14 @@
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\bin\Debug\net8.0\Bezero.exe
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\bin\Debug\net8.0\Bezero.deps.json
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\bin\Debug\net8.0\Bezero.runtimeconfig.json
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\bin\Debug\net8.0\Bezero.dll
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\bin\Debug\net8.0\Bezero.pdb
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\obj\Debug\net8.0\Bezero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\obj\Debug\net8.0\Bezero.AssemblyInfoInputs.cache
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\obj\Debug\net8.0\Bezero.AssemblyInfo.cs
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\obj\Debug\net8.0\Bezero.csproj.CoreCompileInputs.cache
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\obj\Debug\net8.0\Bezero.dll
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\obj\Debug\net8.0\refint\Bezero.dll
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\obj\Debug\net8.0\Bezero.pdb
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\obj\Debug\net8.0\Bezero.genruntimeconfig.cache
+C:\Users\Ikaslea\source\repos\E2T3-Chat\Bezero\obj\Debug\net8.0\ref\Bezero.dll
