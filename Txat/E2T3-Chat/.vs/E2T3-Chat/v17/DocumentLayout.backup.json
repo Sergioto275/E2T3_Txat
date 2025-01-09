@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ikaslea\\source\\repos\\E2T3-Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6965298F-5C4C-4D75-A356-72AC6EAE9C7C}|..\\E2T3-Txat\\E2T3-Txat.csproj|c:\\users\\ikaslea\\source\\repos\\e2t3-txat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ba58fdf3-7af7-4b60-b69b-40ac68d83b75}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ikaslea\\source\\repos\\E2T3-Txat\\Program.cs",
+              "RelativeDocumentMoniker": "..\\E2T3-Txat\\Program.cs",
+              "ToolTip": "C:\\Users\\Ikaslea\\source\\repos\\E2T3-Txat\\Program.cs",
+              "RelativeToolTip": "..\\E2T3-Txat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:33:57.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
