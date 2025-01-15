@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E2T3-Chat", "E2T3-Chat\E2T3-Chat.csproj", "{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zerbitzaria", "Zerbitzaria\Zerbitzaria.csproj", "{46759A9F-47DB-4ACD-971C-8541E8DCE73D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginForm", "LoginForm\LoginForm.csproj", "{BABE0F71-A281-4EE9-B7AF-90DF290B2192}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bezeroa", "Bezeroa\Bezeroa.csproj", "{8FD29320-C6FF-4769-BD86-9D1DFAEFD50A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BABE0F71-A281-4EE9-B7AF-90DF290B2192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BABE0F71-A281-4EE9-B7AF-90DF290B2192}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BABE0F71-A281-4EE9-B7AF-90DF290B2192}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BABE0F71-A281-4EE9-B7AF-90DF290B2192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46759A9F-47DB-4ACD-971C-8541E8DCE73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46759A9F-47DB-4ACD-971C-8541E8DCE73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46759A9F-47DB-4ACD-971C-8541E8DCE73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46759A9F-47DB-4ACD-971C-8541E8DCE73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD29320-C6FF-4769-BD86-9D1DFAEFD50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD29320-C6FF-4769-BD86-9D1DFAEFD50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD29320-C6FF-4769-BD86-9D1DFAEFD50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD29320-C6FF-4769-BD86-9D1DFAEFD50A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

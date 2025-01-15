@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}|E2T3-Chat\\E2T3-Chat.csproj|c:\\users\\ikaslea\\desktop\\e2t3-chat\\e2t3-chat\\chatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}|E2T3-Chat\\E2T3-Chat.csproj|solutionrelative:e2t3-chat\\chatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FD29320-C6FF-4769-BD86-9D1DFAEFD50A}|Bezeroa\\Bezeroa.csproj|C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\bezeroa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FD29320-C6FF-4769-BD86-9D1DFAEFD50A}|Bezeroa\\Bezeroa.csproj|solutionrelative:bezeroa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}|E2T3-Chat\\E2T3-Chat.csproj|c:\\users\\ikaslea\\desktop\\e2t3-chat\\e2t3-chat\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}|E2T3-Chat\\E2T3-Chat.csproj|solutionrelative:e2t3-chat\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FD29320-C6FF-4769-BD86-9D1DFAEFD50A}|Bezeroa\\Bezeroa.csproj|c:\\users\\ikaslea\\desktop\\e2t3-chat\\bezeroa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD29320-C6FF-4769-BD86-9D1DFAEFD50A}|Bezeroa\\Bezeroa.csproj|solutionrelative:bezeroa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}|E2T3-Chat\\E2T3-Chat.csproj|C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\e2t3-chat\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5396A0DF-8F1F-43AB-8FF1-47D5A3931033}|E2T3-Chat\\E2T3-Chat.csproj|solutionrelative:e2t3-chat\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8FD29320-C6FF-4769-BD86-9D1DFAEFD50A}|Bezeroa\\Bezeroa.csproj|c:\\users\\ikaslea\\desktop\\e2t3-chat\\bezeroa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD29320-C6FF-4769-BD86-9D1DFAEFD50A}|Bezeroa\\Bezeroa.csproj|solutionrelative:bezeroa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46759A9F-47DB-4ACD-971C-8541E8DCE73D}|Zerbitzaria\\Zerbitzaria.csproj|c:\\users\\ikaslea\\desktop\\e2t3-chat\\zerbitzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46759A9F-47DB-4ACD-971C-8541E8DCE73D}|Zerbitzaria\\Zerbitzaria.csproj|solutionrelative:zerbitzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ba58fdf3-7af7-4b60-b69b-40ac68d83b75}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -33,45 +41,54 @@
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{ba58fdf3-7af7-4b60-b69b-40ac68d83b75}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ChatForm.cs",
-              "DocumentMoniker": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\E2T3-Chat\\ChatForm.cs",
-              "RelativeDocumentMoniker": "E2T3-Chat\\ChatForm.cs",
-              "ToolTip": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\E2T3-Chat\\ChatForm.cs",
-              "RelativeToolTip": "E2T3-Chat\\ChatForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\Bezeroa\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bezeroa\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\Bezeroa\\Form1.Designer.cs",
+              "RelativeToolTip": "Bezeroa\\Form1.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T10:52:20.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChatForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\E2T3-Chat\\ChatForm.Designer.cs",
-              "RelativeDocumentMoniker": "E2T3-Chat\\ChatForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\E2T3-Chat\\ChatForm.Designer.cs",
-              "RelativeToolTip": "E2T3-Chat\\ChatForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T08:59:35.765Z",
+              "WhenOpened": "2025-01-15T08:28:28.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ChatForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\E2T3-Chat\\ChatForm.cs",
-              "RelativeDocumentMoniker": "E2T3-Chat\\ChatForm.cs",
-              "ToolTip": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\E2T3-Chat\\ChatForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "E2T3-Chat\\ChatForm.cs [Dise\u00F1o]",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\Bezeroa\\Form1.cs",
+              "RelativeDocumentMoniker": "Bezeroa\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\Bezeroa\\Form1.cs",
+              "RelativeToolTip": "Bezeroa\\Form1.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwIkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T12:09:21.788Z"
+              "WhenOpened": "2025-01-15T08:28:16.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\Bezeroa\\Form1.cs",
+              "RelativeDocumentMoniker": "Bezeroa\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\Bezeroa\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Bezeroa\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:28:09.981Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\Zerbitzaria\\Program.cs",
+              "RelativeDocumentMoniker": "Zerbitzaria\\Program.cs",
+              "ToolTip": "C:\\Users\\Ikaslea\\Desktop\\E2T3-Chat\\Zerbitzaria\\Program.cs",
+              "RelativeToolTip": "Zerbitzaria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:27:32.629Z"
             }
           ]
         }
