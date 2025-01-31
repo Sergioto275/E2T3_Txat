@@ -1,0 +1,5 @@
+C:\Users\Ikaslea\Documents\Erronka2\Bezeroa.exe
+C:\Users\Ikaslea\Documents\Erronka2\Bezeroa.dll
+C:\Users\Ikaslea\Documents\Erronka2\Bezeroa.deps.json
+C:\Users\Ikaslea\Documents\Erronka2\Bezeroa.runtimeconfig.json
+C:\Users\Ikaslea\Documents\Erronka2\Bezeroa.pdb
