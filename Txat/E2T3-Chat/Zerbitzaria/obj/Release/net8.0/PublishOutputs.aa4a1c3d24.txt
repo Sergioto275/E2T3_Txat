@@ -1,0 +1,5 @@
+C:\Users\Ikaslea\Desktop\GitHubClone\E2T3_Txat\Txat\E2T3-Chat\Zerbitzaria\bin\Release\net8.0\publish\Zerbitzaria.exe
+C:\Users\Ikaslea\Desktop\GitHubClone\E2T3_Txat\Txat\E2T3-Chat\Zerbitzaria\bin\Release\net8.0\publish\Zerbitzaria.dll
+C:\Users\Ikaslea\Desktop\GitHubClone\E2T3_Txat\Txat\E2T3-Chat\Zerbitzaria\bin\Release\net8.0\publish\Zerbitzaria.deps.json
+C:\Users\Ikaslea\Desktop\GitHubClone\E2T3_Txat\Txat\E2T3-Chat\Zerbitzaria\bin\Release\net8.0\publish\Zerbitzaria.runtimeconfig.json
+C:\Users\Ikaslea\Desktop\GitHubClone\E2T3_Txat\Txat\E2T3-Chat\Zerbitzaria\bin\Release\net8.0\publish\Zerbitzaria.pdb
