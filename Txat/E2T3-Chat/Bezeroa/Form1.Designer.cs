@@ -8,9 +8,10 @@
         private System.Windows.Forms.TextBox txtMesua;
         private System.Windows.Forms.Button btnBidali;
         private System.Windows.Forms.ListBox lstTxat;
-        private System.Windows.Forms.TabControl tabHitzorduak; // Añadido TabControl
-        private System.Windows.Forms.TabPage tabPageHitzorduak; // Añadida la TabPage para "Gaurko hitzorduak"
-        private System.Windows.Forms.Label lblHitzorduak; // Añadido Label para mostrar texto en la pestaña "Gaurko hitzorduak"
+        private System.Windows.Forms.TabControl tabHitzorduak;
+        private System.Windows.Forms.TabPage tabPageHitzorduak;
+        private System.Windows.Forms.Label lblHitzorduak; // First declaration (this should remain)
+        private System.Windows.Forms.Label lblStatus;
 
         private void InitializeComponent()
         {
@@ -22,20 +23,22 @@
             tabHitzorduak = new TabControl();
             tabPageHitzorduak = new TabPage();
             lblHitzorduak = new Label();
+            lblStatus = new Label();
             tabHitzorduak.SuspendLayout();
             tabPageHitzorduak.SuspendLayout();
             SuspendLayout();
             // 
             // txtErabiltzailea
             // 
-            txtErabiltzailea.Location = new Point(12, 12);
+            txtErabiltzailea.Location = new Point(12, 10);
             txtErabiltzailea.Name = "txtErabiltzailea";
             txtErabiltzailea.Size = new Size(260, 23);
             txtErabiltzailea.TabIndex = 0;
+            txtErabiltzailea.TextChanged += txtErabiltzailea_TextChanged;
             // 
             // btnKonex
             // 
-            btnKonex.Location = new Point(278, 10);
+            btnKonex.Location = new Point(278, 9);
             btnKonex.Name = "btnKonex";
             btnKonex.Size = new Size(75, 23);
             btnKonex.TabIndex = 1;
@@ -46,7 +49,7 @@
             // txtMesua
             // 
             txtMesua.Enabled = false;
-            txtMesua.Location = new Point(12, 198);
+            txtMesua.Location = new Point(12, 222);
             txtMesua.Name = "txtMesua";
             txtMesua.Size = new Size(260, 23);
             txtMesua.TabIndex = 2;
@@ -55,7 +58,7 @@
             // btnBidali
             // 
             btnBidali.Enabled = false;
-            btnBidali.Location = new Point(278, 198);
+            btnBidali.Location = new Point(278, 220);
             btnBidali.Name = "btnBidali";
             btnBidali.Size = new Size(75, 24);
             btnBidali.TabIndex = 3;
@@ -67,16 +70,16 @@
             // 
             lstTxat.FormattingEnabled = true;
             lstTxat.ItemHeight = 15;
-            lstTxat.Location = new Point(12, 39);
+            lstTxat.Location = new Point(12, 75);
             lstTxat.Name = "lstTxat";
-            lstTxat.Size = new Size(341, 154);
+            lstTxat.Size = new Size(341, 139);
             lstTxat.TabIndex = 4;
             lstTxat.SelectedIndexChanged += lstTxat_SelectedIndexChanged;
             // 
             // tabHitzorduak
             // 
             tabHitzorduak.Controls.Add(tabPageHitzorduak);
-            tabHitzorduak.Location = new Point(12, 227);
+            tabHitzorduak.Location = new Point(12, 261);
             tabHitzorduak.Name = "tabHitzorduak";
             tabHitzorduak.SelectedIndex = 0;
             tabHitzorduak.Size = new Size(341, 111);
@@ -87,12 +90,9 @@
             tabPageHitzorduak.Controls.Add(lblHitzorduak);
             tabPageHitzorduak.Location = new Point(4, 24);
             tabPageHitzorduak.Name = "tabPageHitzorduak";
-            tabPageHitzorduak.Padding = new Padding(3);
             tabPageHitzorduak.Size = new Size(333, 83);
             tabPageHitzorduak.TabIndex = 0;
-            tabPageHitzorduak.Text = "Gaurko hitzorduak";
-            tabPageHitzorduak.UseVisualStyleBackColor = true;
-            tabPageHitzorduak.Click += tabPageHitzorduak_Click;
+            tabPageHitzorduak.Click += tabPageHitzorduak_Click_1;
             // 
             // lblHitzorduak
             // 
@@ -102,9 +102,19 @@
             lblHitzorduak.Size = new Size(0, 15);
             lblHitzorduak.TabIndex = 0;
             // 
+            // lblStatus
+            // 
+            lblStatus.AutoSize = true;
+            lblStatus.Location = new Point(12, 38);
+            lblStatus.Name = "lblStatus";
+            lblStatus.Size = new Size(0, 15);
+            lblStatus.TabIndex = 6;
+            lblStatus.Click += lblStatus_Click;
+            // 
             // Form1
             // 
-            ClientSize = new Size(365, 350);
+            ClientSize = new Size(370, 384);
+            Controls.Add(lblStatus);
             Controls.Add(tabHitzorduak);
             Controls.Add(lstTxat);
             Controls.Add(btnBidali);
@@ -119,5 +129,26 @@
             ResumeLayout(false);
             PerformLayout();
         }
+
+        private void txtErabiltzailea_TextChanged(object sender, EventArgs e)
+        {
+            // Add your implementation here
+            // Example: Update a label with the current text
+            lblStatus.Text = txtErabiltzailea.Text;
+        }
+
+        private void lstTxat_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void lblStatus_Click(object sender, EventArgs e)
+        {
+        }
+
+
+
+
+
     }
 }

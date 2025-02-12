@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
-using System.Threading;
 
 namespace Zerbitzaria
 {
@@ -17,17 +16,14 @@ namespace Zerbitzaria
         {
             zerbitzari.Start();
             Console.WriteLine("Zerbitzaria abian dago. Konexioak itxaroten...");
-
             while (true)
             {
                 TcpClient client = zerbitzari.AcceptTcpClient();
                 bezeroak.Add(client);
-
                 Thread bThread = new Thread(() => Bezeroak(client));
                 bThread.Start();
             }
         }
-
         static void Bezeroak(TcpClient client)
         {
             NetworkStream stream = client.GetStream();
@@ -54,7 +50,6 @@ namespace Zerbitzaria
             BroadcastMessage($"{erabiltzailea} deskonektatu da", client);
             Console.WriteLine($"{erabiltzailea} joan da.");
         }
-
         static void BroadcastMessage(string message, TcpClient senderClient)
         {
             byte[] messageBytes = Encoding.ASCII.GetBytes(message);
