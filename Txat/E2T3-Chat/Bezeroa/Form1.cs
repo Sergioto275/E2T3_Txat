@@ -98,6 +98,21 @@ namespace Bezeroa
             readThread.Start();
         }
 
+        private void ToggleChatControls(bool enable)
+        {
+            // Txat kontrolak aktibatu edo desaktibatu
+            txtErabiltzailea.Enabled = !enable;
+            btnKonex.Enabled = !enable;
+            txtMesua.Enabled = enable;
+            btnBidali.Enabled = enable;
+        }
+        private void StartReadingMessages()
+        {
+            // Mezuek irakurtzeko thread-a abiaraztea
+            var readThread = new System.Threading.Thread(MesuakJaso);
+            readThread.Start();
+        }
+
         private void btnBidali_Click(object sender, EventArgs e)
         {
             try
