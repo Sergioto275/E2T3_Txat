@@ -10,7 +10,7 @@
         private System.Windows.Forms.ListBox lstTxat;
         private System.Windows.Forms.TabControl tabHitzorduak;
         private System.Windows.Forms.TabPage tabPageHitzorduak;
-        private System.Windows.Forms.Label lblHitzorduak; // First declaration (this should remain)
+        private System.Windows.Forms.Label lblHitzorduak; 
         private System.Windows.Forms.Label lblStatus;
 
         private void InitializeComponent()
@@ -92,7 +92,7 @@
             tabPageHitzorduak.Name = "tabPageHitzorduak";
             tabPageHitzorduak.Size = new Size(333, 83);
             tabPageHitzorduak.TabIndex = 0;
-            tabPageHitzorduak.Click += tabPageHitzorduak_Click_1;
+           // tabPageHitzorduak.Click += tabPageHitzorduak_Click_1;
             // 
             // lblHitzorduak
             // 
@@ -132,8 +132,6 @@
 
         private void txtErabiltzailea_TextChanged(object sender, EventArgs e)
         {
-            // Add your implementation here
-            // Example: Update a label with the current text
             lblStatus.Text = txtErabiltzailea.Text;
         }
 
