@@ -83,7 +83,6 @@ namespace Bezeroa
                 MessageBox.Show("Errorea: " + ex.Message);
             }
         }
-
         private void ToggleChatControls(bool enable)
         {
             // Txat kontrolak aktibatu edo desaktibatu
