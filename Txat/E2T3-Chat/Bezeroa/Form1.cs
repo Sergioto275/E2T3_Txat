@@ -161,5 +161,10 @@ namespace Bezeroa
                 client.Close();
             }
         }
+
+        private void tabPageHitzorduak_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
