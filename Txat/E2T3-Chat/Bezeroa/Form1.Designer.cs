@@ -92,7 +92,7 @@
             tabPageHitzorduak.Name = "tabPageHitzorduak";
             tabPageHitzorduak.Size = new Size(333, 83);
             tabPageHitzorduak.TabIndex = 0;
-           // tabPageHitzorduak.Click += tabPageHitzorduak_Click_1;
+            tabPageHitzorduak.Click += tabPageHitzorduak_Click;
             // 
             // lblHitzorduak
             // 
