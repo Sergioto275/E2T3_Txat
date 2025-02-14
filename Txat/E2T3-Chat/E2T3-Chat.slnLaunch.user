@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Zerbitzaria\\Zerbitzaria.csproj",
+        "Action": "Start",
+        "DebugTarget": "Zerbitzaria"
+      },
+      {
+        "Path": "Bezeroa\\Bezeroa.csproj",
+        "Action": "Start",
+        "DebugTarget": "Bezeroa"
+      }
+    ]
+  }
+]
